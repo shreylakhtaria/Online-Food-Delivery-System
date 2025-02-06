@@ -18,23 +18,6 @@ The Online Food Delivery System is a Python-based application that allows users 
     ```sh
     cd Online-Food-Delivery-System
     ```
-3. Create a virtual environment:
-    ```sh
-    python -m venv myenv
-    ```
-4. Activate the virtual environment:
-    - On Windows:
-        ```sh
-        myenv\Scripts\activate
-        ```
-    - On macOS/Linux:
-        ```sh
-        source myenv/bin/activate
-        ```
-5. Install the required packages:
-    ```sh
-    pip install -r requirement.txt
-    ```
 
 ## Usage
 1. Run the application:
